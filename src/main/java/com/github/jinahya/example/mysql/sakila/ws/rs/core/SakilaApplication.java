@@ -15,7 +15,7 @@
  */
 
 
-package com.github.jinahya.example.mysql.world.ws.rs.core;
+package com.github.jinahya.example.mysql.sakila.ws.rs.core;
 
 
 import javax.ws.rs.ApplicationPath;
@@ -27,7 +27,7 @@ import javax.ws.rs.core.Application;
  * @author Jin Kwon &lt;onacit at gmail.com&gt;
  */
 @ApplicationPath("/")
-public class WorldApplication extends Application {
+public class SakilaApplication extends Application {
 
 }
 

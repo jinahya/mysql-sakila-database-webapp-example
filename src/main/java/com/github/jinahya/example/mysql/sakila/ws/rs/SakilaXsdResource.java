@@ -15,7 +15,7 @@
  */
 
 
-package com.github.jinahya.example.mysql.world.ws.rs;
+package com.github.jinahya.example.mysql.sakila.ws.rs;
 
 
 import java.io.IOException;
